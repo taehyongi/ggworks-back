@@ -1,0 +1,12 @@
+{
+    "python.pythonPath": "/Users/taehyongi/Projects/ggworks/backend/env/bin/python",
+    "python.linting.pylintArgs": [
+        "--disable=E1101",
+        "--disable=C0111",
+        "--disable=C0304",
+        "--disable=C0103",
+        "--disable=C0303",
+        "--indent-string=\"  \"",
+    ],
+    "editor.tabSize": 2,
+}
